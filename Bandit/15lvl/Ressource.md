@@ -8,5 +8,10 @@ Commands you may need to solve this level
 
 ### Solution
 
+```
+nc localhost 30000
+8xCjnmgoKbGLhHFAZlGE5Tmu4M2tKJQo
+```
+
 ### Ressources
 [port forwarding](https://www.tecmint.com/create-ssh-tunneling-port-forwarding-in-linux/)
